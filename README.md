@@ -17,7 +17,7 @@ The script goal is to save the time wasted when creating the basic project files
 
 In order to use this script open a console and type the next commands:
 ```
-git clone https://github.com/ip-repo/html_project_maker.git
+git clone https://github.com/ip-repo/html-project-maker.git
 cd html_project_maker
 ```
 At this point you should be inside the folder <b> html_project_maker</b>.<br>
