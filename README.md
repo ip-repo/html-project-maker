@@ -3,7 +3,7 @@
 <img src="color.png" alt="color template output" style="height: 300px; width:700px;">
 </div>
 
-This  script goal is to generate a basic html project in order to save the time of creating the basic project files and folders.<br>After executing the script you should have a project folder with the following structure:
+The script goal is to save the time wasted when creating the basic project files and folders for a html project.<br>After executing the script you should have a project folder with the following structure:
 
 ```
 📁new_project_1
