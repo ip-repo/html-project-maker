@@ -18,9 +18,9 @@ The script goal is to save the time wasted when creating the basic project files
 In order to use this script open a console and type the next commands:
 ```
 git clone https://github.com/ip-repo/html-project-maker.git
-cd html_project_maker
+cd html-project-maker
 ```
-At this point you should be inside the folder <b> html_project_maker</b>.<br>
+At this point you should be inside the folder <b> html-project-maker</b>.<br>
 Here's how to use the script:
 ```sh
 python [entry point file] [project name] [save path] optional[template]
